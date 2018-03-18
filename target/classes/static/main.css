@@ -1,0 +1,31 @@
+body {
+	 color: #6c757d!important;
+	}
+	
+	.data-column {
+		border-bottom: 1px solid #dee2e6;
+	}
+	
+	.data-column .column-heading {
+		font-weight: bold;
+		border-bottom: 3px solid #dee2e6;
+	}
+	
+	
+	
+	.data-column div {
+		padding: 10px;
+		text-align: center;
+	}
+	
+	.table td {
+		text-align: left;
+	}
+	
+	.table th {
+		text-align: left;
+	}
+	
+	.icon-image{
+		color: #17a2b8;
+	}

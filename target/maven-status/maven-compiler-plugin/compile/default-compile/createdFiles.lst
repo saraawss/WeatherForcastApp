@@ -1,0 +1,12 @@
+com/supergrow/app/domain/Main.class
+com/supergrow/app/logic/ForcastLogic.class
+com/supergrow/app/domain/City.class
+com/supergrow/app/controller/ForcatController.class
+com/supergrow/app/config/AppConfig.class
+com/supergrow/app/Application.class
+com/supergrow/app/domain/Forcast.class
+com/supergrow/app/domain/Weather.class
+com/supergrow/app/controller/HomeController.class
+com/supergrow/app/domain/MainList.class
+com/supergrow/app/domain/Clouds.class
+com/supergrow/app/domain/Wind.class
